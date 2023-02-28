@@ -1,0 +1,92 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: whatsapp clone
+Date: Fri, 24 Feb 2023 13:15:58 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--6ihJFx9n92DMjsRMSgkvGo2zdMsftn3PUhW3fRDrlb----"
+
+
+------MultipartBoundary--6ihJFx9n92DMjsRMSgkvGo2zdMsftn3PUhW3fRDrlb----
+Content-Type: text/html
+Content-ID: <frame-BCBDD3414FFD6F23E906354B4E7CF7BB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html class=3D"hydrated"><head><meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-c2ba9d23-b833-4a58-bd33-0b9f5a7f576e@mhtml.bl=
+ink" />
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-sca=
+le=3D1.0">
+        <title>whatsapp clone</title>
+        <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1=
+:5500/style.css">
+    </head>
+    <body>
+        <div class=3D"container">
+            <header>
+                <a href=3D"http://127.0.0.1:5500/index.html#" class=3D"logo=
+">whatsapp</a>
+                <div class=3D"action">
+                    <a href=3D"http://127.0.0.1:5500/index.html#"><ion-icon=
+ name=3D"camera-outline" role=3D"img" class=3D"md hydrated" aria-label=3D"c=
+amera outline"><template shadowmode=3D"open"><div class=3D"icon-inner"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" class=3D"ionicon s-ion-icon" viewBox=
+=3D"0 0 512 512"><title>Camera</title><path d=3D"M350.54 148.68l-26.62-42.0=
+6C318.31 100.08 310.62 96 302 96h-92c-8.62 0-16.31 4.08-21.92 10.62l-26.62 =
+42.06C155.85 155.23 148.62 160 140 160H80a32 32 0 00-32 32v192a32 32 0 0032=
+ 32h352a32 32 0 0032-32V192a32 32 0 00-32-32h-59c-8.65 0-16.85-4.77-22.46-1=
+1.32z" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"ionicon-=
+fill-none ionicon-stroke-width"></path><circle cx=3D"256" cy=3D"272" r=3D"8=
+0" stroke-miterlimit=3D"10" class=3D"ionicon-fill-none ionicon-stroke-width=
+"></circle><path stroke-linecap=3D"round" stroke-linejoin=3D"round" d=3D"M1=
+24 158v-22h-24v22" class=3D"ionicon-fill-none ionicon-stroke-width"></path>=
+</svg></div></template></ion-icon></a>
+                    <a href=3D"http://127.0.0.1:5500/index.html#"><ion-icon=
+ name=3D"search-outline" role=3D"img" class=3D"md hydrated" aria-label=3D"s=
+earch outline"><template shadowmode=3D"open"><div class=3D"icon-inner"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" class=3D"ionicon s-ion-icon" viewBox=
+=3D"0 0 512 512"><title>Search</title><path d=3D"M221.09 64a157.09 157.09 0=
+ 10157.09 157.09A157.1 157.1 0 00221.09 64z" stroke-miterlimit=3D"10" class=
+=3D"ionicon-fill-none ionicon-stroke-width"></path><path stroke-linecap=3D"=
+round" stroke-miterlimit=3D"10" d=3D"M338.29 338.29L448 448" class=3D"ionic=
+on-fill-none ionicon-stroke-width"></path></svg></div></template></ion-icon=
+></a>
+                    <a href=3D"http://127.0.0.1:5500/index.html#"><ion-icon=
+ name=3D"ellipsis-vertical" role=3D"img" class=3D"md hydrated" aria-label=
+=3D"ellipsis vertical"><template shadowmode=3D"open"><div class=3D"icon-inn=
+er"><svg xmlns=3D"http://www.w3.org/2000/svg" class=3D"ionicon s-ion-icon" =
+viewBox=3D"0 0 512 512"><title>Ellipsis Vertical</title><circle cx=3D"256" =
+cy=3D"256" r=3D"48"></circle><circle cx=3D"256" cy=3D"416" r=3D"48"></circl=
+e><circle cx=3D"256" cy=3D"96" r=3D"48"></circle></svg></div></template></i=
+on-icon></a>
+
+                </div>
+            </header>   =20
+            </div>
+           =20
+           =20
+    <!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--6ihJFx9n92DMjsRMSgkvGo2zdMsftn3PUhW3fRDrlb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c2ba9d23-b833-4a58-bd33-0b9f5a7f576e@mhtml.blink
+
+@charset "utf-8";
+
+ion-icon { visibility: hidden; }
+
+.hydrated { visibility: inherit; }
+------MultipartBoundary--6ihJFx9n92DMjsRMSgkvGo2zdMsftn3PUhW3fRDrlb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--6ihJFx9n92DMjsRMSgkvGo2zdMsftn3PUhW3fRDrlb------
